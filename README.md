@@ -1,4 +1,6 @@
-Rock Paper Scissors from The Odin Project curriculum:
+Rock Paper Scissors project from The Odin Project curriculum:
+
+Simple browser based rock, paper, scissors game.
 
 What I Learned:
   - How to return a random item from an array
