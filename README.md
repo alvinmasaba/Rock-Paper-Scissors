@@ -7,3 +7,7 @@ What I Learned:
   - How to use switch statements
   - How to use a while (conditional) loop
   - How to write MEANINGFUL comments
+
+Check it out at:
+
+https://alvinmasaba.github.io/Rock-Paper-Scissors/
